@@ -20,7 +20,7 @@ __all__ = [
     "Coulomb_counter"
 ]
 
-__version__ = "3.0.0"
+__version__ = "4.0.0"
 
 
 if __name__ == "__main__":
